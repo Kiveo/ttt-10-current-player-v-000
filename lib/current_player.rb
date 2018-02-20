@@ -5,7 +5,7 @@ def turn_count(board)
       counter +=1
     end
   end
-  puts "Counter indicates it is turn: #{counter}"
+  #{counter}
 end
 
 def current_player(board)
