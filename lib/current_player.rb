@@ -8,6 +8,6 @@ def turn_count(board)
   puts "Counter indicates it is turn: #{counter}"
 end
 
-def current_player
+def current_player(board)
 
 end
